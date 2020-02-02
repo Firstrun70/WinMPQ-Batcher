@@ -1,6 +1,6 @@
-------------------------------------- English -------------------------------------
+## ------------------------------------- English -------------------------------------
 
-Batch unpack w3x w3m w3n mpq
+## Batch unpack w3x w3m w3n mpq
 
 by Firstrun70
 
@@ -79,9 +79,9 @@ Protection http://www.zezula.net/en/mpq/war3maps.html
 
 filelist http://www.zezula.net/en/mpq/namebreak.html
 
-------------------------------------- Russian -------------------------------------
+## ------------------------------------- Russian -------------------------------------
 
-Пакетная распаковка w3x w3m w3n mpq
+## Пакетная распаковка w3x w3m w3n mpq
 
 by Firstrun70
 
