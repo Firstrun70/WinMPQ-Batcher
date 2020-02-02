@@ -2,7 +2,9 @@
 
 ## Batch unpack w3x w3m w3n mpq
 
-by Firstrun70
+Author of WinMPQ v1.64: ShadowFlare
+
+Author of WinMPQ Batcher 1.0: Firstrun70
 
 _
 
@@ -10,13 +12,37 @@ Variation 1:
 
 WinMPQ Batcher - Batch resource unpacker from w3x w3m w3n mpq
 
-by Firstrun70
-
 v1.0 [12.25.2019]
 
 _
 
 WinMPQ v1.64 + VB40032.DLL + WinMPQ Batcher 1.0
+
+By default, it is configured to unpack the following files:
+
+war3map.j
+
+scripts\war3map.j
+
+war3map.w3i
+
+war3map.wts
+
+_Locales\ruRU.w3mod\war3map.wts
+
+war3mapMap.blp
+
+war3mapMap.tga
+
+war3mapPreview.tga
+
+war3campaign.w3f
+
+war3campaign.wts
+
+_
+
+Recommended use chcp 850
 
 Work methods:
 
@@ -83,7 +109,9 @@ filelist http://www.zezula.net/en/mpq/namebreak.html
 
 ## Пакетная распаковка w3x w3m w3n mpq
 
-by Firstrun70
+Автор WinMPQ v1.64: ShadowFlare
+
+Автор WinMPQ Batcher 1.0: Firstrun70
 
 _
 
@@ -98,6 +126,32 @@ v1.0 [25.12.2019]
 _
 
 WinMPQ v1.64 + VB40032.DLL + WinMPQ Batcher 1.0
+
+По умолчанию настроена на распаковку следующих файлов:
+
+war3map.j
+
+scripts\war3map.j
+
+war3map.w3i
+
+war3map.wts
+
+_Locales\ruRU.w3mod\war3map.wts
+
+war3mapMap.blp
+
+war3mapMap.tga
+
+war3mapPreview.tga
+
+war3campaign.w3f
+
+war3campaign.wts
+
+_
+
+Рекомендуется использовать chcp 1251
 
 Методы работы:
 
